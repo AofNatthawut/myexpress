@@ -10,7 +10,10 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@google/genai": "^2.3.0",
+    "@google/generative-ai": "^0.24.1",
     "@line/bot-sdk": "^11.0.0",
+    "@supabase/supabase-js": "^2.105.4",
     "dotenv": "^17.4.2",
     "express": "^5.2.1"
   }
